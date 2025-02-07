@@ -11,7 +11,7 @@
   padding: 0px;
   /*border-radius: 8px;*/
   opacity: 0; /* 初始透明 */
-  transition: opacity 0.5s ease; /* 設置透明度過渡動畫 */
+  transition: opacity 0.8s ease; /* 設置透明度過渡動畫 */
   display: none; /* 初始隱藏 */
   z-index: 1000;
   text-align: center;
